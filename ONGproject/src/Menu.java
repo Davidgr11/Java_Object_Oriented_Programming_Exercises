@@ -7,7 +7,7 @@ import java.awt.event.ActionListener;
 import java.awt.event.ActionEvent;
 
 public class Menu extends JPanel {
-	public JButton btn1;//creo que tienen que ser publicas por que cambian la ventana
+	public JButton btn1;
 	public JButton btn2;
 	public JButton btn3;
 	public JButton btn4;
